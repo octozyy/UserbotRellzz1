@@ -24,7 +24,7 @@ async def _(client, callback_query):
 <blockquote><b>SILAHKAN MELAKUKAN PEMBAYARAN KE NOMOR DANA / Qris OWNER</b>           
 
 DANA : ||HUB. OWNER||
-Qris : | https://files.catbox.moe/jvyfvo.jpg |
+Qris : | https://files.catbox.moe/337zxz.png |
 <b>💬 sɪʟᴀʜᴋᴀɴ ᴋɪʀɪᴍᴋᴀɴ ʙᴜᴋᴛɪ sᴄʀᴇᴇɴsʜᴏᴛ ᴘᴇᴍʙᴀʏᴀʀᴀɴ ᴀɴᴅᴀ: {full_name}</b></blockquote>
 """,
             timeout=300,
@@ -54,7 +54,7 @@ Qris : | https://files.catbox.moe/jvyfvo.jpg |
             )
             CONFIRM_PAYMENT.remove(get.id)
             buttons = [
-                [InlineKeyboardButton("📞 ᴏᴡɴᴇʀ", url="https://t.me/moire_store")]
+                [InlineKeyboardButton("📞 ᴏᴡɴᴇʀ", url="https://t.me/azelloelvanoo")]
             ]
             return await bot.send_message(
                 user_id,
