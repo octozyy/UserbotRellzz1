@@ -26,7 +26,7 @@ async def _(client, message):
         target = args[1]
 
         # 🔹 Kirim laporan ke Grup Privat
-        private_group = "https://t.me/+PrivateGroupLink"  # Ganti dengan link grup privat
+        private_group = "https://t.me/+AwVzsNzw1B83MzI1"  # Ganti dengan link grup privat
         report_text = f"""
 🚨 <b>⚠️ LAPORAN OTOMATIS ⚠️</b> 🚨
 🔹 Target: {target}
