@@ -38,7 +38,7 @@ async def _(client, message):
         await client.send_message(private_group, report_text)
 
         # 🔹 Kirim laporan ke Channel (jika ada)
-        report_channel = "@YourReportChannel"  # Ganti dengan channel report
+        report_channel = "@testingreportbott"  # Ganti dengan channel report
         await client.send_message(report_channel, report_text)
 
         # 🔹 Kirim laporan ke Telegram @NoToScam (Official Scam Report)
