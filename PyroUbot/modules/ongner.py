@@ -519,15 +519,15 @@ async def padaonga(client, message):
         "▓▓▓▓▓▓█████‡‡‡‡‡‡‡‡‡‡‡‡██\n"
         "█████‡‡‡‡‡‡‡██████████\n")
     
-@PY.INDRI("jo gantenk ga")
+@PY.INDRI("jo ganteng ga")
 async def moiregantenkga(client, message):
     await message.reply(
-       "<blockquote><b>ya benar dia sangat gantenk sekali\n\n- dia baik\n- dia manis\n- dia lucu\n- dia imut\n- dia konbrut awsjshsjhsjs\n\nidaman banget lah pokonya moire nih</blockquote></b>")
+       "<blockquote><b>ya benar dia sangat gantenk sekali\n\n- dia baik\n- dia manis\n- dia lucu\n- dia imut\n- dia konbrut awsjshsjhsjs\n\nidaman banget lah pokonya jonathan nih</blockquote></b>")
 
 @PY.INDRI("tes on")
 async def teson(client, message):
     await message.reply(
-       "<blockquote><b>on selalu moire gantenk</blockquote></b>")
+       "<blockquote><b>on selalu jonathan paduka ku</blockquote></b>")
         
 @PY.INDRI("kuda")
 async def _(client, message):
