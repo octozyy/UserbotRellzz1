@@ -89,7 +89,7 @@ async def _(client, message):
 """
             await message.reply(_ping)
         else:
-            await message.reply(f"<blockquote>ᴘᴏɴɢ : {str(delta_ping_formatted).replace('.', ',')} ms\nᴜsᴇʀʙᴏᴛ ᴏɴ ʙᴀɴɢ mor</blockquote>\n\n<blockquote><b>👾 USERBOT PREMIUM 👾</b></blockquote>")
+            await message.reply(f"<blockquote>ᴘᴏɴɢ : {str(delta_ping_formatted).replace('.', ',')} ms\nᴜsᴇʀʙᴏᴛ ᴏɴ ʙᴀɴɢ mo ᴊᴏɴᴀᴛʜᴀɴ</blockquote>\n\n<blockquote><b>👾 USERBOT PREMIUM 👾</b></blockquote>")
     except Exception as r:
         print(r)
 
@@ -519,7 +519,7 @@ async def padaonga(client, message):
         "▓▓▓▓▓▓█████‡‡‡‡‡‡‡‡‡‡‡‡██\n"
         "█████‡‡‡‡‡‡‡██████████\n")
     
-@PY.INDRI("moire gantenk ga")
+@PY.INDRI("jo gantenk ga")
 async def moiregantenkga(client, message):
     await message.reply(
        "<blockquote><b>ya benar dia sangat gantenk sekali\n\n- dia baik\n- dia manis\n- dia lucu\n- dia imut\n- dia konbrut awsjshsjhsjs\n\nidaman banget lah pokonya moire nih</blockquote></b>")
